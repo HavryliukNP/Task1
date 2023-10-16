@@ -18,13 +18,13 @@
 - [x] git remote add
 - [x] git push
 - [x] git pull
-- [] git branch
+- [ ] git branch
 ## Практична робота №2
 ### Основні завдання
 У **практичній роботі №2** потрібно:
 
-створити файл README.md
-створити файл .gitignore
+* створити файл README.md
+* створити файл .gitignore
 #### Створення файла README.md
 У файлі **README.md** повинна бути така інформація:
 
