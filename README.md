@@ -1,7 +1,6 @@
 # Sana Commerce Software Development Courses `24
-Посилання на логотип: https://upload.wikimedia.org/wikipedia/commons/0/08/Sana_Commerce_Logo.png
-
-##Практична робота №1
+![image](https://github.com/HavryliukNP/Home-work2/assets/146914742/cc621c26-bcd0-42c7-9f39-fa054b95e7f4)
+## Практична робота №1
 Основні завдання
 У практичній роботі №1 було:
 
