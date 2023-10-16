@@ -38,4 +38,4 @@
  
 Документація з використання Git розміщена за [посиланням](https://docs.google.com/document/d/1agdvcLqd2w2rWS0-fCqwsevO-7QN2xLpZPq7Haylq4U/edit).
 
-Виконав: **Гаврилюк Назарій**
+Виконав: **_Гаврилюк Назарій_**
