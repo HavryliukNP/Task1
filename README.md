@@ -11,14 +11,14 @@
 ### Використані команди Git
 У **практичній роботі №1** було використано такі команди Git:
 
- git init
- git status
- git add
- git commit
- git remote add
- git push
- git pull
- git branch
+- [x] git init
+- [x] git status
+- [x] git add
+- [x] git commit
+- [x] git remote add
+- [x] git push
+- [x] git pull
+- [] git branch
 ## Практична робота №2
 ### Основні завдання
 У **практичній роботі №2** потрібно:
