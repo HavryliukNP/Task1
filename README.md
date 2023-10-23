@@ -39,3 +39,4 @@
 Документація з використання Git розміщена за [посиланням](https://docs.google.com/document/d/1agdvcLqd2w2rWS0-fCqwsevO-7QN2xLpZPq7Haylq4U/edit).
 
 Виконав: **_Гаврилюк Назарій_**
+**_ipz234_gnp@student.ztu.edu.ua_**
